@@ -4,7 +4,7 @@ I’m a Simulation Science graduate who creates games as a means of exploring th
 
 You can view my [portfolio here](https://jeffcoatdesign.github.io/Portfolio/).
 
-My primary coding languages are: C#, C++, C, Python, PHP, SQL, HTML, and JavaScript.
+My primary coding languages are: C#, C++, C, Python, PHP, SQL, HTML, and JavaScript. 
 My main tools are: Visual Studio, Unity, Maya, Houdini, and Photoshop.
 
 ### What I Built
